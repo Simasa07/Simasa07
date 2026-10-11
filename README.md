@@ -10,8 +10,8 @@ Building useful software, exploring intelligent systems, and learning by shippin
   <a href="https://github.com/Simasa07">
     <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-211A17?style=for-the-badge&logo=github&logoColor=F6EFE5" alt="GitHub">
   </a>
-  <!-- Replace the placeholder below with your real LinkedIn profile URL -->
-  <a href="https://www.linkedin.com/">
+  
+  <a href="https://www.linkedin.com/in/simasa-sirajudeen-622442392/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-D6B878?style=for-the-badge&logo=linkedin&logoColor=211A17" alt="LinkedIn">
   </a>
 </p>
@@ -37,61 +37,118 @@ I'm **Simasa**, a Computer Engineering undergraduate at the **University of Pera
 
 <!-- Keep only technologies you have used and can discuss confidently. -->
 <p>
-  <img src="https://skillicons.dev/icons?i=python,kotlin,c,java,html,css,javascript,fastapi,postgres,git,github,vscode,androidstudio&theme=light" alt="Technology icons">
+  <img src="https://skillicons.dev/icons?i=python,kotlin,c,java,html,css,javascript,fastapi,postgres,git,github,vscode,androidstudio, postman&theme=light" alt="Technology icons">
 </p>
 
-**Current areas of interest:** AI-powered applications · Android development · Backend APIs · Database design · Scheduling and optimization
+**Current areas of interest:** AI-powered applications · Android development · Backend APIs · Database design · Scheduling and optimization · Robotics
 
 ---
 
 ## Featured projects 🚀
 
-<!-- Replace each REPO_URL placeholder with the real repository URL.
-     Keep project descriptions accurate and distinguish your own contribution in team projects. -->
-
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧞 QuizGenie</h3>
-      <p>An AI-powered quiz app concept that turns uploaded study materials into multiple-choice quizzes and helps learners review their performance.</p>
-      <p><strong>Focus:</strong> Kotlin · Android · FastAPI · PostgreSQL</p>
-      <p><a href="REPO_URL_QUIZGENIE">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⏱️ ChronoCampus</h3>
-      <p>A university infrastructure orchestration project focused on time-aware resource availability, scheduling, and coordination.</p>
-      <p><strong>Focus:</strong> Software engineering · Scheduling · Resource management</p>
-      <p><a href="REPO_URL_CHRONOCAMPUS">View repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗄️ ForenSys Database</h3>
-      <p>A forensic medical database design project with structured data management and granular role-based access control.</p>
-      <p><strong>Focus:</strong> SQL · Database design · RBAC</p>
-      <p><a href="REPO_URL_FORENSYS">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 MoodMix</h3>
-      <p>An Android application project exploring a mood-oriented music experience.</p>
-      <p><strong>Focus:</strong> Kotlin · Android development</p>
-      <p><a href="REPO_URL_MOODMIX">View repository →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3> 🤳🏻Expense Tracker</h3>
-      <p>A simple web app that track the expense of the shop.</p>
-      <p><strong>Focus:</strong> HTML · CSS · JavaScript</p>
-      <p><a href="REPO_URL_FORENSYS">View repository →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3> 🧑🏻‍💻Attendance Tracker</h3>
-      <p>A simple web application that track the attendance of the students in the class.</p>
-      <p><strong>Focus:</strong> HTML · CSS · JavaScript</p>
-      <p><a href="REPO_URL_MOODMIX">View repository →</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧞 QuizGenie
+**AI-powered quiz generation**
+
+A mobile learning app that aims to generate MCQ quizzes from uploaded study materials and help learners review their performance.
+
+`Kotlin` `Android` `FastAPI` `PostgreSQL`
+
+[**Explore project ↗**](https://github.com/Simasa07/QuizGenie)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Human Recognition AI
+**Human action recognition**
+
+An AI-focused project exploring the recognition and classification of human actions from visual data.
+
+`AI` `Machine Learning` `Computer Vision`
+
+[**Explore project ↗**](https://github.com/cepdnaclk/e23-co5420--Sensora-human-activity-recognition-from-smartphone-sensor-data)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ ChronoCampus
+**Smart university infrastructure**
+
+A team project focused on time-aware university resource orchestration, availability, and coordination.
+
+`Software Engineering` `Scheduling` `Resource Management`
+
+[**Explore project ↗**](https://github.com/cepdnaclk/e23-co2060-ChronoCampus)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ ForenSys
+**Forensic medical database system**
+
+A database project focused on structured forensic medical records and granular role-based access control.
+
+`SQL` `Database Design` `RBAC`
+
+[**Explore project ↗**](https://github.com/cepdnaclk/e23-co2050-ForeSys)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎵 MoodMix
+**Mood-based music experience**
+
+An Android application project exploring a music experience shaped around users' moods.
+
+`Kotlin` `Android Development`
+
+[**Explore project ↗**](https://github.com/Simasa07/MoodMix)
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 Expense Tracker
+**Personal expense management**
+
+A project focused on recording and organizing expenses to make everyday spending easier to track.
+
+`Application Development` `Data Management`
+
+[**Explore project ↗**](https://github.com/Simasa07/ExpenseTracker)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏰 Attendance Tracker
+**A simple historical web experience**
+
+A single-page website introducing Attendance Tracker's history through concise content, imagery, and visual styling.
+
+`HTML` `Web Design`
+
+[**Explore project ↗**](https://github.com/Simasa07/StudentAttendanceTracker)
+
+</td>
+<td width="50%" valign="top">
+
+### ✨ My approach
+**Practical, people-focused technology**
+
+From intelligent learning tools to data-driven systems, I enjoy projects that combine problem-solving with useful user experiences.
+
+`AI` `Software Engineering` `Databases`
+
+</td>
+</tr>
 </table>
 
 
