@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Simasa — Computer Engineering</title>
+  <desc id="desc">A warm cream and dark brown banner for a computer engineering student interested in AI and software engineering.</desc>
+  <rect width="1200" height="360" rx="28" fill="#211A17"/>
+  <circle cx="1030" cy="50" r="210" fill="#49352A" opacity=".9"/>
+  <circle cx="1090" cy="300" r="150" fill="#D6B878" opacity=".16"/>
+  <path d="M0 290 C230 210 360 390 600 285 S960 200 1200 270 L1200 360 L0 360Z" fill="#49352A"/>
+  <path d="M0 320 C260 260 420 390 700 315 S1030 270 1200 315 L1200 360 L0 360Z" fill="#D6B878" opacity=".2"/>
+  <g fill="none" stroke="#D6B878" stroke-width="2" opacity=".55">
+    <path d="M900 100h70v45h55"/>
+    <path d="M980 145v45h80"/>
+    <path d="M890 205h40v-35h45"/>
+    <circle cx="900" cy="100" r="5" fill="#D6B878"/>
+    <circle cx="1025" cy="145" r="5" fill="#D6B878"/>
+    <circle cx="1060" cy="190" r="5" fill="#D6B878"/>
+    <circle cx="975" cy="170" r="5" fill="#D6B878"/>
+  </g>
+  <text x="78" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="24" letter-spacing="5" fill="#D6B878">COMPUTER ENGINEERING</text>
+  <text x="74" y="205" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="76" fill="#F6EFE5">Hi, I'm Simasa.</text>
+  <text x="80" y="255" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#F6EFE5" opacity=".92">AI · Software Engineering · Mobile Development</text>
+  <rect x="80" y="286" width="150" height="5" rx="2.5" fill="#D6B878"/>
+</svg>
