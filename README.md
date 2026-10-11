@@ -29,6 +29,7 @@ I'm **Simasa**, a Computer Engineering undergraduate at the **University of Pera
 - 📱 Building mobile and full-stack projects
 - 🧠 Learning through implementation, testing, and iteration
 - 🌱 Always improving my engineering fundamentals
+- 🤖 Making my first step into robotics
 
 ---
 
@@ -77,11 +78,22 @@ I'm **Simasa**, a Computer Engineering undergraduate at the **University of Pera
       <p><a href="REPO_URL_MOODMIX">View repository →</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Expense Tracker</h3>
+      <p>A simple web app that track the expense of the shop.</p>
+      <p><strong>Focus:</strong> HTML · CSS · JavaScript</p>
+      <p><a href="REPO_URL_FORENSYS">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 Attendance Tracker</h3>
+      <p>A simple web application that track the attendance of the students in the class.</p>
+      <p><strong>Focus:</strong> HTML · CSS · JavaScript</p>
+      <p><a href="REPO_URL_MOODMIX">View repository →</a></p>
+    </td>
+  </tr>
 </table>
 
-> **Before publishing:** Replace the `REPO_URL_...` placeholders with real repository URLs. Add or remove projects based on what is public and ready to show. For team projects, state your own contribution accurately.
-
----
 
 ## GitHub activity 📈
 
@@ -99,8 +111,8 @@ I'm **Simasa**, a Computer Engineering undergraduate at the **University of Pera
 ## Let's connect 🤝
 
 - **GitHub:** [@Simasa07](https://github.com/Simasa07)
-- **LinkedIn:** [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- **Email:** Add a professional contact email if you want it public
+- **LinkedIn:** [Sirajudeen Simasa]([https://www.linkedin.com/](https://www.linkedin.com/in/simasa-sirajudeen-622442392/))
+- **Email:** simasa366@gmail.com
 
 <div align="center">
 
