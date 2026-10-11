@@ -25,7 +25,7 @@ Building useful software, exploring intelligent systems, and learning by shippin
 I'm **Simasa**, a Computer Engineering undergraduate at the **University of Peradeniya**. I enjoy turning ideas into working applications and exploring how software engineering, AI, and data can solve practical problems.
 
 - 🎓 Computer Engineering undergraduate
-- 🤖 Interested in AI, machine learning, and intelligent applications
+- 👾 Interested in AI, machine learning, and intelligent applications
 - 📱 Building mobile and full-stack projects
 - 🧠 Learning through implementation, testing, and iteration
 - 🌱 Always improving my engineering fundamentals
@@ -80,13 +80,13 @@ I'm **Simasa**, a Computer Engineering undergraduate at the **University of Pera
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗄️ Expense Tracker</h3>
+      <h3> 🤳🏻Expense Tracker</h3>
       <p>A simple web app that track the expense of the shop.</p>
       <p><strong>Focus:</strong> HTML · CSS · JavaScript</p>
       <p><a href="REPO_URL_FORENSYS">View repository →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 Attendance Tracker</h3>
+      <h3> 🧑🏻‍💻Attendance Tracker</h3>
       <p>A simple web application that track the attendance of the students in the class.</p>
       <p><strong>Focus:</strong> HTML · CSS · JavaScript</p>
       <p><a href="REPO_URL_MOODMIX">View repository →</a></p>
