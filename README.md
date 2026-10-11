@@ -111,7 +111,7 @@ I'm **Simasa**, a Computer Engineering undergraduate at the **University of Pera
 ## Let's connect 🤝
 
 - **GitHub:** [@Simasa07](https://github.com/Simasa07)
-- **LinkedIn:** [Sirajudeen Simasa]([https://www.linkedin.com/](https://www.linkedin.com/in/simasa-sirajudeen-622442392/))
+- **LinkedIn:** [Sirajudeen Simasa](https://www.linkedin.com/in/simasa-sirajudeen-622442392/)
 - **Email:** simasa366@gmail.com
 
 <div align="center">
