@@ -95,7 +95,7 @@ A database project focused on structured forensic medical records and granular r
 
 `SQL` `Database Design` `RBAC`
 
-[**Explore project ↗**](https://github.com/cepdnaclk/e23-co2050-ForeSys)
+[**Explore project ↗**](https://github.com/sarana023/e23-co2050-ForenSys-DB)
 
 </td>
 </tr>
